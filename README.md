@@ -1,6 +1,5 @@
 # VPN Server Setup Kit
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Shell Script](https://img.shields.io/badge/language-Bash-green.svg)  
 ![Platform](https://img.shields.io/badge/platform-Linux%20%28Ubuntu%29-lightgrey.svg)  
 ![VPN](https://img.shields.io/badge/VPN-WireGuard%20%7C%20OpenVPN-blueviolet.svg)  
