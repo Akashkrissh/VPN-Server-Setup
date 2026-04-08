@@ -166,7 +166,3 @@ It reflects the ability to build production-level systems beyond theoretical con
 Contributions are welcome. Fork the repository and submit a pull request.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
